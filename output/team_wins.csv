@@ -1,0 +1,151 @@
+TeamName,League,Season,Division,Franchise,Team,W,L,%,Year
+Toronto Raptors,,(2014-15),Atlantic Division,Toronto Raptors,TOR,49,33,59.80%,2014
+Boston Celtics,,(2014-15),Atlantic Division,Boston Celtics,BOS,40,42,48.80%,2014
+Brooklyn Nets,,(2014-15),Atlantic Division,Brooklyn Nets,BRK,38,44,46.30%,2014
+Philadelphia 76ers,,(2014-15),Atlantic Division,Philadelphia 76ers,PHI,18,64,22.00%,2014
+New York Knicks,,(2014-15),Atlantic Division,New York Knicks,NYK,17,65,20.70%,2014
+Cleveland Cavaliers,,(2014-15),Central Division,Cleveland Cavaliers,CLE,53,29,64.60%,2014
+Chicago Bulls,,(2014-15),Central Division,Chicago Bulls,CHI,50,32,61.00%,2014
+Milwaukee Bucks,,(2014-15),Central Division,Milwaukee Bucks,MIL,41,41,50.00%,2014
+Indiana Pacers,,(2014-15),Central Division,Indiana Pacers,IND,38,44,46.30%,2014
+Detroit Pistons,,(2014-15),Central Division,Detroit Pistons,DET,32,50,39.00%,2014
+Portland Trail Blazers,,(2014-15),Northwest Division,Portland Trail Blazers,POR,51,31,62.20%,2014
+Oklahoma City Thunder,,(2014-15),Northwest Division,Oklahoma City Thunder,OKC,45,37,54.90%,2014
+Utah Jazz,,(2014-15),Northwest Division,Utah Jazz,UTA,38,44,46.30%,2014
+Denver Nuggets,,(2014-15),Northwest Division,Denver Nuggets,DEN,30,52,36.60%,2014
+Minnesota Timberwolves,,(2014-15),Northwest Division,Minnesota Timberwolves,MIN,16,66,19.50%,2014
+Golden State Warriors,,(2014-15),Pacific Division,Golden State Warriors,GSW,67,15,81.70%,2014
+Los Angeles Clippers,,(2014-15),Pacific Division,Los Angeles Clippers,LAC,56,26,68.30%,2014
+Phoenix Suns,,(2014-15),Pacific Division,Phoenix Suns,PHO,39,43,47.60%,2014
+Sacramento Kings,,(2014-15),Pacific Division,Sacramento Kings,SAC,29,53,35.40%,2014
+Los Angeles Lakers,,(2014-15),Pacific Division,Los Angeles Lakers,LAL,21,61,25.60%,2014
+Atlanta Hawks,,(2014-15),Southeast Division,Atlanta Hawks,ATL,60,22,73.20%,2014
+Washington Wizards,,(2014-15),Southeast Division,Washington Wizards,WAS,46,36,56.10%,2014
+Miami Heat,,(2014-15),Southeast Division,Miami Heat,MIA,37,45,45.10%,2014
+Charlotte Hornets,,(2014-15),Southeast Division,Charlotte Hornets,CHO,33,49,40.20%,2014
+Orlando Magic,,(2014-15),Southeast Division,Orlando Magic,ORL,25,57,30.50%,2014
+Houston Rockets,,(2014-15),Southwest Division,Houston Rockets,HOU,56,26,68.30%,2014
+San Antonio Spurs,,(2014-15),Southwest Division,San Antonio Spurs,SAS,55,27,67.10%,2014
+Memphis Grizzlies,,(2014-15),Southwest Division,Memphis Grizzlies,MEM,55,27,67.10%,2014
+Dallas Mavericks,,(2014-15),Southwest Division,Dallas Mavericks,DAL,50,32,61.00%,2014
+New Orleans Pelicans,,(2014-15),Southwest Division,New Orleans Pelicans,NOP,45,37,54.90%,2014
+Toronto Raptors,,(2015-16),Atlantic Division,Toronto Raptors,TOR,56,26,68.30%,2015
+Boston Celtics,,(2015-16),Atlantic Division,Boston Celtics,BOS,48,34,58.50%,2015
+New York Knicks,,(2015-16),Atlantic Division,New York Knicks,NYK,32,50,39.00%,2015
+Brooklyn Nets,,(2015-16),Atlantic Division,Brooklyn Nets,BRK,21,61,25.60%,2015
+Philadelphia 76ers,,(2015-16),Atlantic Division,Philadelphia 76ers,PHI,10,72,12.20%,2015
+Cleveland Cavaliers,,(2015-16),Central Division,Cleveland Cavaliers,CLE,57,25,69.50%,2015
+Indiana Pacers,,(2015-16),Central Division,Indiana Pacers,IND,45,37,54.90%,2015
+Detroit Pistons,,(2015-16),Central Division,Detroit Pistons,DET,44,38,53.70%,2015
+Chicago Bulls,,(2015-16),Central Division,Chicago Bulls,CHI,42,40,51.20%,2015
+Milwaukee Bucks,,(2015-16),Central Division,Milwaukee Bucks,MIL,33,49,40.20%,2015
+Miami Heat,,(2015-16),Southeast Division,Miami Heat,MIA,48,34,58.50%,2015
+Atlanta Hawks,,(2015-16),Southeast Division,Atlanta Hawks,ATL,48,34,58.50%,2015
+Charlotte Hornets,,(2015-16),Southeast Division,Charlotte Hornets,CHO,48,34,58.50%,2015
+Washington Wizards,,(2015-16),Southeast Division,Washington Wizards,WAS,41,41,50.00%,2015
+Orlando Magic,,(2015-16),Southeast Division,Orlando Magic,ORL,35,47,42.70%,2015
+Golden State Warriors,,(2015-16),Pacific Division,Golden State Warriors,GSW,73,9,89.00%,2015
+Los Angeles Clippers,,(2015-16),Pacific Division,Los Angeles Clippers,LAC,53,29,64.60%,2015
+Sacramento Kings,,(2015-16),Pacific Division,Sacramento Kings,SAC,33,49,40.20%,2015
+Phoenix Suns,,(2015-16),Pacific Division,Phoenix Suns,PHO,23,59,28.00%,2015
+Los Angeles Lakers,,(2015-16),Pacific Division,Los Angeles Lakers,LAL,17,65,20.70%,2015
+Oklahoma City Thunder,,(2015-16),Northwest Division,Oklahoma City Thunder,OKC,55,27,67.10%,2015
+Portland Trail Blazers,,(2015-16),Northwest Division,Portland Trail Blazers,POR,44,38,53.70%,2015
+Utah Jazz,,(2015-16),Northwest Division,Utah Jazz,UTA,40,42,48.80%,2015
+Denver Nuggets,,(2015-16),Northwest Division,Denver Nuggets,DEN,33,49,40.20%,2015
+Minnesota Timberwolves,,(2015-16),Northwest Division,Minnesota Timberwolves,MIN,29,53,35.40%,2015
+San Antonio Spurs,,(2015-16),Southwest Division,San Antonio Spurs,SAS,67,15,81.70%,2015
+Dallas Mavericks,,(2015-16),Southwest Division,Dallas Mavericks,DAL,42,40,51.20%,2015
+Memphis Grizzlies,,(2015-16),Southwest Division,Memphis Grizzlies,MEM,42,40,51.20%,2015
+Houston Rockets,,(2015-16),Southwest Division,Houston Rockets,HOU,41,41,50.00%,2015
+New Orleans Pelicans,,(2015-16),Southwest Division,New Orleans Pelicans,NOP,30,52,36.60%,2015
+Boston Celtics,,(2016-17),Atlantic Division,Boston Celtics,BOS,53,29,64.60%,2016
+Toronto Raptors,,(2016-17),Atlantic Division,Toronto Raptors,TOR,51,31,62.20%,2016
+New York Knicks,,(2016-17),Atlantic Division,New York Knicks,NYK,31,51,37.80%,2016
+Philadelphia 76ers,,(2016-17),Atlantic Division,Philadelphia 76ers,PHI,28,54,34.10%,2016
+Brooklyn Nets,,(2016-17),Atlantic Division,Brooklyn Nets,BRK,20,62,24.40%,2016
+Cleveland Cavaliers,,(2016-17),Central Division,Cleveland Cavaliers,CLE,51,31,62.20%,2016
+Milwaukee Bucks,,(2016-17),Central Division,Milwaukee Bucks,MIL,42,40,51.20%,2016
+Indiana Pacers,,(2016-17),Central Division,Indiana Pacers,IND,42,40,51.20%,2016
+Chicago Bulls,,(2016-17),Central Division,Chicago Bulls,CHI,41,41,50.00%,2016
+Detroit Pistons,,(2016-17),Central Division,Detroit Pistons,DET,37,45,45.10%,2016
+Washington Wizards,,(2016-17),Southeast Division,Washington Wizards,WAS,49,33,59.80%,2016
+Atlanta Hawks,,(2016-17),Southeast Division,Atlanta Hawks,ATL,43,39,52.40%,2016
+Miami Heat,,(2016-17),Southeast Division,Miami Heat,MIA,41,41,50.00%,2016
+Charlotte Hornets,,(2016-17),Southeast Division,Charlotte Hornets,CHO,36,46,43.90%,2016
+Orlando Magic,,(2016-17),Southeast Division,Orlando Magic,ORL,29,53,35.40%,2016
+Golden State Warriors,,(2016-17),Pacific Division,Golden State Warriors,GSW,67,15,81.70%,2016
+Los Angeles Clippers,,(2016-17),Pacific Division,Los Angeles Clippers,LAC,51,31,62.20%,2016
+Sacramento Kings,,(2016-17),Pacific Division,Sacramento Kings,SAC,32,50,39.00%,2016
+Los Angeles Lakers,,(2016-17),Pacific Division,Los Angeles Lakers,LAL,26,56,31.70%,2016
+Phoenix Suns,,(2016-17),Pacific Division,Phoenix Suns,PHO,24,58,29.30%,2016
+Utah Jazz,,(2016-17),Northwest Division,Utah Jazz,UTA,51,31,62.20%,2016
+Oklahoma City Thunder,,(2016-17),Northwest Division,Oklahoma City Thunder,OKC,47,35,57.30%,2016
+Portland Trail Blazers,,(2016-17),Northwest Division,Portland Trail Blazers,POR,41,41,50.00%,2016
+Denver Nuggets,,(2016-17),Northwest Division,Denver Nuggets,DEN,40,42,48.80%,2016
+Minnesota Timberwolves,,(2016-17),Northwest Division,Minnesota Timberwolves,MIN,31,51,37.80%,2016
+San Antonio Spurs,,(2016-17),Southwest Division,San Antonio Spurs,SAS,61,21,74.40%,2016
+Houston Rockets,,(2016-17),Southwest Division,Houston Rockets,HOU,55,27,67.10%,2016
+Memphis Grizzlies,,(2016-17),Southwest Division,Memphis Grizzlies,MEM,43,39,52.40%,2016
+New Orleans Pelicans,,(2016-17),Southwest Division,New Orleans Pelicans,NOP,34,48,41.50%,2016
+Dallas Mavericks,,(2016-17),Southwest Division,Dallas Mavericks,DAL,33,49,40.20%,2016
+Toronto Raptors,,(2017-18),Atlantic Division,Toronto Raptors,TOR,59,23,72.00%,2017
+Boston Celtics,,(2017-18),Atlantic Division,Boston Celtics,BOS,55,27,67.10%,2017
+Philadelphia 76ers,,(2017-18),Atlantic Division,Philadelphia 76ers,PHI,52,30,63.40%,2017
+New York Knicks,,(2017-18),Atlantic Division,New York Knicks,NYK,29,53,35.40%,2017
+Brooklyn Nets,,(2017-18),Atlantic Division,Brooklyn Nets,BRK,28,54,34.10%,2017
+Cleveland Cavaliers,,(2017-18),Central Division,Cleveland Cavaliers,CLE,50,32,61.00%,2017
+Indiana Pacers,,(2017-18),Central Division,Indiana Pacers,IND,48,34,58.50%,2017
+Milwaukee Bucks,,(2017-18),Central Division,Milwaukee Bucks,MIL,44,38,53.70%,2017
+Detroit Pistons,,(2017-18),Central Division,Detroit Pistons,DET,39,43,47.60%,2017
+Chicago Bulls,,(2017-18),Central Division,Chicago Bulls,CHI,27,55,32.90%,2017
+Miami Heat,,(2017-18),Southeast Division,Miami Heat,MIA,44,38,53.70%,2017
+Washington Wizards,,(2017-18),Southeast Division,Washington Wizards,WAS,43,39,52.40%,2017
+Charlotte Hornets,,(2017-18),Southeast Division,Charlotte Hornets,CHO,36,46,43.90%,2017
+Orlando Magic,,(2017-18),Southeast Division,Orlando Magic,ORL,25,57,30.50%,2017
+Atlanta Hawks,,(2017-18),Southeast Division,Atlanta Hawks,ATL,24,58,29.30%,2017
+Golden State Warriors,,(2017-18),Pacific Division,Golden State Warriors,GSW,58,24,70.70%,2017
+Los Angeles Clippers,,(2017-18),Pacific Division,Los Angeles Clippers,LAC,42,40,51.20%,2017
+Los Angeles Lakers,,(2017-18),Pacific Division,Los Angeles Lakers,LAL,35,47,42.70%,2017
+Sacramento Kings,,(2017-18),Pacific Division,Sacramento Kings,SAC,27,55,32.90%,2017
+Phoenix Suns,,(2017-18),Pacific Division,Phoenix Suns,PHO,21,61,25.60%,2017
+Portland Trail Blazers,,(2017-18),Northwest Division,Portland Trail Blazers,POR,49,33,59.80%,2017
+Oklahoma City Thunder,,(2017-18),Northwest Division,Oklahoma City Thunder,OKC,48,34,58.50%,2017
+Utah Jazz,,(2017-18),Northwest Division,Utah Jazz,UTA,48,34,58.50%,2017
+Minnesota Timberwolves,,(2017-18),Northwest Division,Minnesota Timberwolves,MIN,47,35,57.30%,2017
+Denver Nuggets,,(2017-18),Northwest Division,Denver Nuggets,DEN,46,36,56.10%,2017
+Houston Rockets,,(2017-18),Southwest Division,Houston Rockets,HOU,65,17,79.30%,2017
+New Orleans Pelicans,,(2017-18),Southwest Division,New Orleans Pelicans,NOP,48,34,58.50%,2017
+San Antonio Spurs,,(2017-18),Southwest Division,San Antonio Spurs,SAS,47,35,57.30%,2017
+Dallas Mavericks,,(2017-18),Southwest Division,Dallas Mavericks,DAL,24,58,29.30%,2017
+Memphis Grizzlies,,(2017-18),Southwest Division,Memphis Grizzlies,MEM,22,60,26.80%,2017
+Toronto Raptors,,(2018-19),Atlantic Division,Toronto Raptors,TOR,58,24,70.70%,2018
+Philadelphia 76ers,,(2018-19),Atlantic Division,Philadelphia 76ers,PHI,51,31,62.20%,2018
+Boston Celtics,,(2018-19),Atlantic Division,Boston Celtics,BOS,49,33,59.80%,2018
+Brooklyn Nets,,(2018-19),Atlantic Division,Brooklyn Nets,BRK,42,40,51.20%,2018
+New York Knicks,,(2018-19),Atlantic Division,New York Knicks,NYK,17,65,20.70%,2018
+Milwaukee Bucks,,(2018-19),Central Division,Milwaukee Bucks,MIL,60,22,73.20%,2018
+Indiana Pacers,,(2018-19),Central Division,Indiana Pacers,IND,48,34,58.50%,2018
+Detroit Pistons,,(2018-19),Central Division,Detroit Pistons,DET,41,41,50.00%,2018
+Chicago Bulls,,(2018-19),Central Division,Chicago Bulls,CHI,22,60,26.80%,2018
+Cleveland Cavaliers,,(2018-19),Central Division,Cleveland Cavaliers,CLE,19,63,23.20%,2018
+Orlando Magic,,(2018-19),Southeast Division,Orlando Magic,ORL,42,40,51.20%,2018
+Charlotte Hornets,,(2018-19),Southeast Division,Charlotte Hornets,CHO,39,43,47.60%,2018
+Miami Heat,,(2018-19),Southeast Division,Miami Heat,MIA,39,43,47.60%,2018
+Washington Wizards,,(2018-19),Southeast Division,Washington Wizards,WAS,32,50,39.00%,2018
+Atlanta Hawks,,(2018-19),Southeast Division,Atlanta Hawks,ATL,29,53,35.40%,2018
+Denver Nuggets,,(2018-19),Pacific Division,Denver Nuggets,DEN,54,28,65.90%,2018
+Portland Trail Blazers,,(2018-19),Pacific Division,Portland Trail Blazers,POR,53,29,64.60%,2018
+Utah Jazz,,(2018-19),Pacific Division,Utah Jazz,UTA,50,32,61.00%,2018
+Oklahoma City Thunder,,(2018-19),Pacific Division,Oklahoma City Thunder,OKC,49,33,59.80%,2018
+Minnesota Timberwolves,,(2018-19),Pacific Division,Minnesota Timberwolves,MIN,36,46,43.90%,2018
+Golden State Warriors,,(2018-19),Northwest Division,Golden State Warriors,GSW,57,25,69.50%,2018
+Los Angeles Clippers,,(2018-19),Northwest Division,Los Angeles Clippers,LAC,48,34,58.50%,2018
+Sacramento Kings,,(2018-19),Northwest Division,Sacramento Kings,SAC,39,43,47.60%,2018
+Los Angeles Lakers,,(2018-19),Northwest Division,Los Angeles Lakers,LAL,37,45,45.10%,2018
+Phoenix Suns,,(2018-19),Northwest Division,Phoenix Suns,PHO,19,63,23.20%,2018
+Houston Rockets,,(2018-19),Southwest Division,Houston Rockets,HOU,53,29,64.60%,2018
+San Antonio Spurs,,(2018-19),Southwest Division,San Antonio Spurs,SAS,48,34,58.50%,2018
+Memphis Grizzlies,,(2018-19),Southwest Division,Memphis Grizzlies,MEM,33,49,40.20%,2018
+New Orleans Pelicans,,(2018-19),Southwest Division,New Orleans Pelicans,NOP,33,49,40.20%,2018
+Dallas Mavericks,,(2018-19),Southwest Division,Dallas Mavericks,DAL,33,49,40.20%,2018
