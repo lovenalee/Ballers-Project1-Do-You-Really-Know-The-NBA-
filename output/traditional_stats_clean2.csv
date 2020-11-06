@@ -1,151 +1,151 @@
-Team,Year,WINorLOSS,TeamPoints,Assists,FieldGoals,TotalRebounds
-ATL,2014,W,2360,590,859,962
-ATL,2015,W,6185,1566,2301,2392
-ATL,2016,W,4763,1200,1795,1977
-ATL,2017,W,4024,947,1498,1670
-ATL,2018,W,1468,357,552,629
-BOS,2014,W,1186,300,464,500
-BOS,2015,W,4886,1175,1846,2112
-BOS,2016,W,5458,1273,2012,2276
-BOS,2017,W,6868,1563,2471,2822
-BOS,2018,W,2674,596,1005,1171
-BRK,2014,W,1544,332,580,653
-BRK,2015,W,3381,742,1312,1439
-BRK,2016,W,2281,474,833,921
-BRK,2017,W,2827,593,1002,1207
-BRK,2018,W,1663,397,598,657
-CHI,2014,W,2297,471,808,1011
-CHI,2015,W,4728,1039,1757,2236
-CHI,2016,W,4308,996,1629,1924
-CHI,2017,W,4190,962,1575,1803
-CHI,2018,W,1597,353,580,620
-CHO,2014,W,1059,229,404,462
-CHO,2015,W,4117,879,1521,1872
-CHO,2016,W,5427,1162,1963,2324
-CHO,2017,W,3353,710,1193,1391
-CHO,2018,W,2759,582,989,1087
-CLE,2014,W,1960,451,720,748
-CLE,2015,W,5971,1304,2189,2517
-CLE,2016,W,6875,1474,2501,2801
-CLE,2017,W,5803,1246,2113,2177
-CLE,2018,W,3075,649,1120,1138
-DAL,2014,W,2616,586,981,950
-DAL,2015,W,4931,1077,1841,2018
-DAL,2016,W,3412,725,1253,1415
-DAL,2017,W,3852,827,1424,1493
-DAL,2018,W,1232,269,447,478
-DEN,2014,W,1360,279,501,619
-DEN,2015,W,3187,744,1190,1317
-DEN,2016,W,3861,830,1409,1620
-DEN,2017,W,5265,1221,1960,2085
-DEN,2018,W,3144,758,1152,1186
-DET,2014,W,823,160,310,383
-DET,2015,W,4544,935,1685,2002
-DET,2016,W,4423,919,1675,1951
-DET,2017,W,4634,997,1784,1990
-DET,2018,W,2109,459,800,906
-GSW,2014,W,2758,682,1041,1146
-GSW,2015,W,8196,2073,3044,3284
-GSW,2016,W,8521,2214,3166,3312
-GSW,2017,W,7987,2103,2984,3012
-GSW,2018,W,3437,887,1291,1276
-HOU,2014,W,2285,448,791,1008
-HOU,2015,W,5452,1153,1901,2264
-HOU,2016,W,5886,1286,2102,2331
-HOU,2017,W,6611,1383,2292,2513
-HOU,2018,W,4377,837,1518,1722
-IND,2014,W,1199,255,457,552
-IND,2015,W,4566,984,1684,2018
-IND,2016,W,4569,965,1713,1962
-IND,2017,W,4995,1090,1882,1962
-IND,2018,W,3131,672,1214,1261
-LAC,2014,W,2405,564,871,927
-LAC,2015,W,5970,1382,2176,2447
-LAC,2016,W,5939,1271,2179,2375
-LAC,2017,W,5066,1053,1841,2048
-LAC,2018,W,3019,626,1111,1166
-LAL,2014,W,1090,253,414,453
-LAL,2015,W,1790,365,656,801
-LAL,2016,W,2497,486,924,1069
-LAL,2017,W,2850,608,1075,1185
-LAL,2018,W,2695,617,1016,1173
-MEM,2014,W,2393,539,906,977
-MEM,2015,W,5084,1109,1929,2211
-MEM,2016,W,4785,1000,1750,1983
-MEM,2017,W,3502,728,1243,1411
-MEM,2018,W,1104,240,401,432
-MIA,2014,W,1408,316,518,542
-MIA,2015,W,4152,871,1541,1793
-MIA,2016,W,4273,914,1663,1871
-MIA,2017,W,5403,1106,2007,2167
-MIA,2018,W,2692,616,1018,1147
-MIL,2014,W,1724,397,664,740
-MIL,2015,W,3732,936,1440,1559
-MIL,2016,W,3926,918,1481,1603
-MIL,2017,W,4826,1090,1800,1799
-MIL,2018,W,2790,639,1043,1068
-MIN,2014,W,520,125,195,216
-MIN,2015,W,2412,514,880,1027
-MIN,2016,W,3209,741,1170,1187
-MIN,2017,W,4803,1060,1794,1886
-MIN,2018,W,2760,585,1024,1069
-NOP,2014,W,1726,382,672,683
-NOP,2015,W,4128,937,1538,1719
-NOP,2016,W,3745,838,1394,1542
-NOP,2017,W,4315,970,1623,1742
-NOP,2018,W,3572,866,1382,1412
-NYK,2014,W,492,110,190,193
-NYK,2015,W,2818,628,1037,1204
-NYK,2016,W,3590,756,1369,1558
-NYK,2017,W,3566,762,1345,1521
-NYK,2018,W,1241,288,473,540
-OKC,2014,W,1710,343,625,761
-OKC,2015,W,5852,1178,2211,2575
-OKC,2016,W,6009,1299,2251,2581
-OKC,2017,W,5026,1021,1864,2198
-OKC,2018,W,3275,649,1198,1301
-ORL,2014,W,1313,267,502,547
-ORL,2015,W,3213,691,1253,1393
-ORL,2016,W,3430,801,1313,1365
-ORL,2017,W,2914,632,1080,1179
-ORL,2018,W,1421,332,520,582
-PHI,2014,W,380,73,140,196
-PHI,2015,W,1669,406,607,784
-PHI,2016,W,1604,383,594,654
-PHI,2017,W,4085,980,1477,1764
-PHI,2018,W,3992,1030,1515,1708
-PHO,2014,W,2001,396,746,795
-PHO,2015,W,3546,684,1353,1523
-PHO,2016,W,2319,452,838,1068
-PHO,2017,W,3121,611,1141,1327
-PHO,2018,W,759,171,279,318
-POR,2014,W,2763,613,1041,1251
-POR,2015,W,4137,867,1550,1862
-POR,2016,W,4942,1020,1816,1990
-POR,2017,W,4941,911,1810,2069
-POR,2018,W,3472,660,1287,1472
-SAC,2014,W,1411,250,493,592
-SAC,2015,W,3035,662,1109,1275
-SAC,2016,W,3876,852,1433,1556
-SAC,2017,W,3204,707,1207,1311
-SAC,2018,W,1544,342,618,663
-SAS,2014,W,2108,518,783,861
-SAS,2015,W,6638,1601,2559,2842
-SAS,2016,W,7100,1631,2688,2848
-SAS,2017,W,6365,1465,2397,2672
-SAS,2018,W,2353,508,886,1000
-TOR,2014,W,2632,517,944,998
-TOR,2015,W,4654,928,1664,1988
-TOR,2016,W,6295,1139,2267,2540
-TOR,2017,W,5886,1134,2187,2373
-TOR,2018,W,3955,911,1466,1631
-UTA,2014,W,1108,230,401,500
-UTA,2015,W,4049,809,1488,1909
-UTA,2016,W,4803,939,1754,2079
-UTA,2017,W,4968,1052,1829,2050
-UTA,2018,W,3550,804,1314,1477
-WAS,2014,W,2273,583,897,959
-WAS,2015,W,3973,969,1528,1702
-WAS,2016,W,4708,1123,1807,1872
-WAS,2017,W,6070,1344,2294,2416
-WAS,2018,W,2516,662,954,960
+,TeamName,League,Season,Division,Franchise,Team,W,L,%
+1334,NBAToronto Raptors,NBA,(2013-14),Atlantic Division,Toronto Raptors,TOR,48,34,58.50%
+1335,NBABrooklyn Nets,NBA,(2013-14),Atlantic Division,Brooklyn Nets,BRO,44,38,53.70%
+1336,NBANew York Knicks,NBA,(2013-14),Atlantic Division,New York Knicks,NYK,37,45,45.10%
+1337,NBABoston Celtics,NBA,(2013-14),Atlantic Division,Boston Celtics,BOS,25,57,30.50%
+1338,NBAPhiladelphia 76ers,NBA,(2013-14),Atlantic Division,Philadelphia 76ers,PHI,19,63,23.20%
+1339,NBAIndiana Pacers,NBA,(2013-14),Central Division,Indiana Pacers,IND,56,26,68.30%
+1340,NBAChicago Bulls,NBA,(2013-14),Central Division,Chicago Bulls,CHI,48,34,58.50%
+1341,NBACleveland Cavaliers,NBA,(2013-14),Central Division,Cleveland Cavaliers,CLE,33,49,40.20%
+1342,NBADetroit Pistons,NBA,(2013-14),Central Division,Detroit Pistons,DET,29,53,35.40%
+1343,NBAMilwaukee Bucks,NBA,(2013-14),Central Division,Milwaukee Bucks,MIL,15,67,18.30%
+1344,NBAOklahoma City Thunder,NBA,(2013-14),Northwest Division,Oklahoma City Thunder,OCT,59,23,72.00%
+1345,NBAPortland Trail Blazers,NBA,(2013-14),Northwest Division,Portland Trail Blazers,POR,54,28,65.90%
+1346,NBAMinnesota Timberwolves,NBA,(2013-14),Northwest Division,Minnesota Timberwolves,MIN,40,42,48.80%
+1347,NBADenver Nuggets,NBA,(2013-14),Northwest Division,Denver Nuggets,DEN,36,46,43.90%
+1348,NBAUtah Jazz,NBA,(2013-14),Northwest Division,Utah Jazz,UTA,25,57,30.50%
+1349,NBALos Angeles Clippers,NBA,(2013-14),Pacific Division,Los Angeles Clippers,LAC,57,25,69.50%
+1350,NBAGolden State Warriors,NBA,(2013-14),Pacific Division,Golden State Warriors,GSW,51,31,62.20%
+1351,NBAPhoenix Suns,NBA,(2013-14),Pacific Division,Phoenix Suns,PHO,48,34,58.50%
+1352,NBASacramento Kings,NBA,(2013-14),Pacific Division,Sacramento Kings,SAC,28,54,34.10%
+1353,NBALos Angeles Lakers,NBA,(2013-14),Pacific Division,Los Angeles Lakers,LAL,27,55,32.90%
+1354,NBAMiami Heat,NBA,(2013-14),Southeast Division,Miami Heat,MIA,54,28,65.90%
+1355,NBAWashington Wizards,NBA,(2013-14),Southeast Division,Washington Wizards,WAS,44,38,53.70%
+1356,NBACharlotte Hornets,NBA,(2013-14),Southeast Division,Charlotte Hornets,CHA,43,39,52.40%
+1357,NBAAtlanta Hawks,NBA,(2013-14),Southeast Division,Atlanta Hawks,ATL,38,44,46.30%
+1358,NBAOrlando Magic,NBA,(2013-14),Southeast Division,Orlando Magic,ORL,23,59,28.00%
+1359,NBASan Antonio Spurs,NBA,(2013-14),Southwest Division,San Antonio Spurs,SAS,62,20,75.60%
+1360,NBAHouston Rockets,NBA,(2013-14),Southwest Division,Houston Rockets,HOU,54,28,65.90%
+1361,NBAMemphis Grizzlies,NBA,(2013-14),Southwest Division,Memphis Grizzlies,MEM,50,32,61.00%
+1362,NBADallas Mavericks,NBA,(2013-14),Southwest Division,Dallas Mavericks,DAL,49,33,59.80%
+1363,NBANew Orleans Pelicans,NBA,(2013-14),Southwest Division,New Orleans Pelicans,NOP,34,48,41.50%
+1364,NBAToronto Raptors,NBA,(2014-15),Atlantic Division,Toronto Raptors,TOR,49,33,59.80%
+1365,NBABoston Celtics,NBA,(2014-15),Atlantic Division,Boston Celtics,BOS,40,42,48.80%
+1366,NBABrooklyn Nets,NBA,(2014-15),Atlantic Division,Brooklyn Nets,BRO,38,44,46.30%
+1367,NBAPhiladelphia 76ers,NBA,(2014-15),Atlantic Division,Philadelphia 76ers,PHI,18,64,22.00%
+1368,NBANew York Knicks,NBA,(2014-15),Atlantic Division,New York Knicks,NYK,17,65,20.70%
+1369,NBACleveland Cavaliers,NBA,(2014-15),Central Division,Cleveland Cavaliers,CLE,53,29,64.60%
+1370,NBAChicago Bulls,NBA,(2014-15),Central Division,Chicago Bulls,CHI,50,32,61.00%
+1371,NBAMilwaukee Bucks,NBA,(2014-15),Central Division,Milwaukee Bucks,MIL,41,41,50.00%
+1372,NBAIndiana Pacers,NBA,(2014-15),Central Division,Indiana Pacers,IND,38,44,46.30%
+1373,NBADetroit Pistons,NBA,(2014-15),Central Division,Detroit Pistons,DET,32,50,39.00%
+1374,NBAPortland Trail Blazers,NBA,(2014-15),Northwest Division,Portland Trail Blazers,POR,51,31,62.20%
+1375,NBAOklahoma City Thunder,NBA,(2014-15),Northwest Division,Oklahoma City Thunder,OCT,45,37,54.90%
+1376,NBAUtah Jazz,NBA,(2014-15),Northwest Division,Utah Jazz,UTA,38,44,46.30%
+1377,NBADenver Nuggets,NBA,(2014-15),Northwest Division,Denver Nuggets,DEN,30,52,36.60%
+1378,NBAMinnesota Timberwolves,NBA,(2014-15),Northwest Division,Minnesota Timberwolves,MIN,16,66,19.50%
+1379,NBAGolden State Warriors,NBA,(2014-15),Pacific Division,Golden State Warriors,GSW,67,15,81.70%
+1380,NBALos Angeles Clippers,NBA,(2014-15),Pacific Division,Los Angeles Clippers,LAC,56,26,68.30%
+1381,NBAPhoenix Suns,NBA,(2014-15),Pacific Division,Phoenix Suns,PHO,39,43,47.60%
+1382,NBASacramento Kings,NBA,(2014-15),Pacific Division,Sacramento Kings,SAC,29,53,35.40%
+1383,NBALos Angeles Lakers,NBA,(2014-15),Pacific Division,Los Angeles Lakers,LAL,21,61,25.60%
+1384,NBAAtlanta Hawks,NBA,(2014-15),Southeast Division,Atlanta Hawks,ATL,60,22,73.20%
+1385,NBAWashington Wizards,NBA,(2014-15),Southeast Division,Washington Wizards,WAS,46,36,56.10%
+1386,NBAMiami Heat,NBA,(2014-15),Southeast Division,Miami Heat,MIA,37,45,45.10%
+1387,NBACharlotte Hornets,NBA,(2014-15),Southeast Division,Charlotte Hornets,CHA,33,49,40.20%
+1388,NBAOrlando Magic,NBA,(2014-15),Southeast Division,Orlando Magic,ORL,25,57,30.50%
+1389,NBAHouston Rockets,NBA,(2014-15),Southwest Division,Houston Rockets,HOU,56,26,68.30%
+1390,NBASan Antonio Spurs,NBA,(2014-15),Southwest Division,San Antonio Spurs,SAS,55,27,67.10%
+1391,NBAMemphis Grizzlies,NBA,(2014-15),Southwest Division,Memphis Grizzlies,MEM,55,27,67.10%
+1392,NBADallas Mavericks,NBA,(2014-15),Southwest Division,Dallas Mavericks,DAL,50,32,61.00%
+1393,NBANew Orleans Pelicans,NBA,(2014-15),Southwest Division,New Orleans Pelicans,NOP,45,37,54.90%
+1394,NBAToronto Raptors,NBA,(2015-16),Atlantic Division,Toronto Raptors,TOR,56,26,68.30%
+1395,NBABoston Celtics,NBA,(2015-16),Atlantic Division,Boston Celtics,BOS,48,34,58.50%
+1396,NBANew York Knicks,NBA,(2015-16),Atlantic Division,New York Knicks,NYK,32,50,39.00%
+1397,NBABrooklyn Nets,NBA,(2015-16),Atlantic Division,Brooklyn Nets,BRO,21,61,25.60%
+1398,NBAPhiladelphia 76ers,NBA,(2015-16),Atlantic Division,Philadelphia 76ers,PHI,10,72,12.20%
+1399,NBACleveland Cavaliers,NBA,(2015-16),Central Division,Cleveland Cavaliers,CLE,57,25,69.50%
+1400,NBAIndiana Pacers,NBA,(2015-16),Central Division,Indiana Pacers,IND,45,37,54.90%
+1401,NBADetroit Pistons,NBA,(2015-16),Central Division,Detroit Pistons,DET,44,38,53.70%
+1402,NBAChicago Bulls,NBA,(2015-16),Central Division,Chicago Bulls,CHI,42,40,51.20%
+1403,NBAMilwaukee Bucks,NBA,(2015-16),Central Division,Milwaukee Bucks,MIL,33,49,40.20%
+1404,NBAMiami Heat,NBA,(2015-16),Southeast Division,Miami Heat,MIA,48,34,58.50%
+1405,NBAAtlanta Hawks,NBA,(2015-16),Southeast Division,Atlanta Hawks,ATL,48,34,58.50%
+1406,NBACharlotte Hornets,NBA,(2015-16),Southeast Division,Charlotte Hornets,CHA,48,34,58.50%
+1407,NBAWashington Wizards,NBA,(2015-16),Southeast Division,Washington Wizards,WAS,41,41,50.00%
+1408,NBAOrlando Magic,NBA,(2015-16),Southeast Division,Orlando Magic,ORL,35,47,42.70%
+1409,NBAGolden State Warriors,NBA,(2015-16),Pacific Division,Golden State Warriors,GSW,73,9,89.00%
+1410,NBALos Angeles Clippers,NBA,(2015-16),Pacific Division,Los Angeles Clippers,LAC,53,29,64.60%
+1411,NBASacramento Kings,NBA,(2015-16),Pacific Division,Sacramento Kings,SAC,33,49,40.20%
+1412,NBAPhoenix Suns,NBA,(2015-16),Pacific Division,Phoenix Suns,PHO,23,59,28.00%
+1413,NBALos Angeles Lakers,NBA,(2015-16),Pacific Division,Los Angeles Lakers,LAL,17,65,20.70%
+1414,NBAOklahoma City Thunder,NBA,(2015-16),Northwest Division,Oklahoma City Thunder,OCT,55,27,67.10%
+1415,NBAPortland Trail Blazers,NBA,(2015-16),Northwest Division,Portland Trail Blazers,POR,44,38,53.70%
+1416,NBAUtah Jazz,NBA,(2015-16),Northwest Division,Utah Jazz,UTA,40,42,48.80%
+1417,NBADenver Nuggets,NBA,(2015-16),Northwest Division,Denver Nuggets,DEN,33,49,40.20%
+1418,NBAMinnesota Timberwolves,NBA,(2015-16),Northwest Division,Minnesota Timberwolves,MIN,29,53,35.40%
+1419,NBASan Antonio Spurs,NBA,(2015-16),Southwest Division,San Antonio Spurs,SAS,67,15,81.70%
+1420,NBADallas Mavericks,NBA,(2015-16),Southwest Division,Dallas Mavericks,DAL,42,40,51.20%
+1421,NBAMemphis Grizzlies,NBA,(2015-16),Southwest Division,Memphis Grizzlies,MEM,42,40,51.20%
+1422,NBAHouston Rockets,NBA,(2015-16),Southwest Division,Houston Rockets,HOU,41,41,50.00%
+1423,NBANew Orleans Pelicans,NBA,(2015-16),Southwest Division,New Orleans Pelicans,NOP,30,52,36.60%
+1424,NBABoston Celtics,NBA,(2016-17),Atlantic Division,Boston Celtics,BOS,53,29,64.60%
+1425,NBAToronto Raptors,NBA,(2016-17),Atlantic Division,Toronto Raptors,TOR,51,31,62.20%
+1426,NBANew York Knicks,NBA,(2016-17),Atlantic Division,New York Knicks,NYK,31,51,37.80%
+1427,NBAPhiladelphia 76ers,NBA,(2016-17),Atlantic Division,Philadelphia 76ers,PHI,28,54,34.10%
+1428,NBABrooklyn Nets,NBA,(2016-17),Atlantic Division,Brooklyn Nets,BRO,20,62,24.40%
+1429,NBACleveland Cavaliers,NBA,(2016-17),Central Division,Cleveland Cavaliers,CLE,51,31,62.20%
+1430,NBAMilwaukee Bucks,NBA,(2016-17),Central Division,Milwaukee Bucks,MIL,42,40,51.20%
+1431,NBAIndiana Pacers,NBA,(2016-17),Central Division,Indiana Pacers,IND,42,40,51.20%
+1432,NBAChicago Bulls,NBA,(2016-17),Central Division,Chicago Bulls,CHI,41,41,50.00%
+1433,NBADetroit Pistons,NBA,(2016-17),Central Division,Detroit Pistons,DET,37,45,45.10%
+1434,NBAWashington Wizards,NBA,(2016-17),Southeast Division,Washington Wizards,WAS,49,33,59.80%
+1435,NBAAtlanta Hawks,NBA,(2016-17),Southeast Division,Atlanta Hawks,ATL,43,39,52.40%
+1436,NBAMiami Heat,NBA,(2016-17),Southeast Division,Miami Heat,MIA,41,41,50.00%
+1437,NBACharlotte Hornets,NBA,(2016-17),Southeast Division,Charlotte Hornets,CHA,36,46,43.90%
+1438,NBAOrlando Magic,NBA,(2016-17),Southeast Division,Orlando Magic,ORL,29,53,35.40%
+1439,NBAGolden State Warriors,NBA,(2016-17),Pacific Division,Golden State Warriors,GSW,67,15,81.70%
+1440,NBALos Angeles Clippers,NBA,(2016-17),Pacific Division,Los Angeles Clippers,LAC,51,31,62.20%
+1441,NBASacramento Kings,NBA,(2016-17),Pacific Division,Sacramento Kings,SAC,32,50,39.00%
+1442,NBALos Angeles Lakers,NBA,(2016-17),Pacific Division,Los Angeles Lakers,LAL,26,56,31.70%
+1443,NBAPhoenix Suns,NBA,(2016-17),Pacific Division,Phoenix Suns,PHO,24,58,29.30%
+1444,NBAUtah Jazz,NBA,(2016-17),Northwest Division,Utah Jazz,UTA,51,31,62.20%
+1445,NBAOklahoma City Thunder,NBA,(2016-17),Northwest Division,Oklahoma City Thunder,OCT,47,35,57.30%
+1446,NBAPortland Trail Blazers,NBA,(2016-17),Northwest Division,Portland Trail Blazers,POR,41,41,50.00%
+1447,NBADenver Nuggets,NBA,(2016-17),Northwest Division,Denver Nuggets,DEN,40,42,48.80%
+1448,NBAMinnesota Timberwolves,NBA,(2016-17),Northwest Division,Minnesota Timberwolves,MIN,31,51,37.80%
+1449,NBASan Antonio Spurs,NBA,(2016-17),Southwest Division,San Antonio Spurs,SAS,61,21,74.40%
+1450,NBAHouston Rockets,NBA,(2016-17),Southwest Division,Houston Rockets,HOU,55,27,67.10%
+1451,NBAMemphis Grizzlies,NBA,(2016-17),Southwest Division,Memphis Grizzlies,MEM,43,39,52.40%
+1452,NBANew Orleans Pelicans,NBA,(2016-17),Southwest Division,New Orleans Pelicans,NOP,34,48,41.50%
+1453,NBADallas Mavericks,NBA,(2016-17),Southwest Division,Dallas Mavericks,DAL,33,49,40.20%
+1454,NBAToronto Raptors,NBA,(2017-18),Atlantic Division,Toronto Raptors,TOR,59,23,72.00%
+1455,NBABoston Celtics,NBA,(2017-18),Atlantic Division,Boston Celtics,BOS,55,27,67.10%
+1456,NBAPhiladelphia 76ers,NBA,(2017-18),Atlantic Division,Philadelphia 76ers,PHI,52,30,63.40%
+1457,NBANew York Knicks,NBA,(2017-18),Atlantic Division,New York Knicks,NYK,29,53,35.40%
+1458,NBABrooklyn Nets,NBA,(2017-18),Atlantic Division,Brooklyn Nets,BRO,28,54,34.10%
+1459,NBACleveland Cavaliers,NBA,(2017-18),Central Division,Cleveland Cavaliers,CLE,50,32,61.00%
+1460,NBAIndiana Pacers,NBA,(2017-18),Central Division,Indiana Pacers,IND,48,34,58.50%
+1461,NBAMilwaukee Bucks,NBA,(2017-18),Central Division,Milwaukee Bucks,MIL,44,38,53.70%
+1462,NBADetroit Pistons,NBA,(2017-18),Central Division,Detroit Pistons,DET,39,43,47.60%
+1463,NBAChicago Bulls,NBA,(2017-18),Central Division,Chicago Bulls,CHI,27,55,32.90%
+1464,NBAMiami Heat,NBA,(2017-18),Southeast Division,Miami Heat,MIA,44,38,53.70%
+1465,NBAWashington Wizards,NBA,(2017-18),Southeast Division,Washington Wizards,WAS,43,39,52.40%
+1466,NBACharlotte Hornets,NBA,(2017-18),Southeast Division,Charlotte Hornets,CHA,36,46,43.90%
+1467,NBAOrlando Magic,NBA,(2017-18),Southeast Division,Orlando Magic,ORL,25,57,30.50%
+1468,NBAAtlanta Hawks,NBA,(2017-18),Southeast Division,Atlanta Hawks,ATL,24,58,29.30%
+1469,NBAGolden State Warriors,NBA,(2017-18),Pacific Division,Golden State Warriors,GSW,58,24,70.70%
+1470,NBALos Angeles Clippers,NBA,(2017-18),Pacific Division,Los Angeles Clippers,LAC,42,40,51.20%
+1471,NBALos Angeles Lakers,NBA,(2017-18),Pacific Division,Los Angeles Lakers,LAL,35,47,42.70%
+1472,NBASacramento Kings,NBA,(2017-18),Pacific Division,Sacramento Kings,SAC,27,55,32.90%
+1473,NBAPhoenix Suns,NBA,(2017-18),Pacific Division,Phoenix Suns,PHO,21,61,25.60%
+1474,NBAPortland Trail Blazers,NBA,(2017-18),Northwest Division,Portland Trail Blazers,POR,49,33,59.80%
+1475,NBAOklahoma City Thunder,NBA,(2017-18),Northwest Division,Oklahoma City Thunder,OCT,48,34,58.50%
+1476,NBAUtah Jazz,NBA,(2017-18),Northwest Division,Utah Jazz,UTA,48,34,58.50%
+1477,NBAMinnesota Timberwolves,NBA,(2017-18),Northwest Division,Minnesota Timberwolves,MIN,47,35,57.30%
+1478,NBADenver Nuggets,NBA,(2017-18),Northwest Division,Denver Nuggets,DEN,46,36,56.10%
+1479,NBAHouston Rockets,NBA,(2017-18),Southwest Division,Houston Rockets,HOU,65,17,79.30%
+1480,NBANew Orleans Pelicans,NBA,(2017-18),Southwest Division,New Orleans Pelicans,NOP,48,34,58.50%
+1481,NBASan Antonio Spurs,NBA,(2017-18),Southwest Division,San Antonio Spurs,SAS,47,35,57.30%
+1482,NBADallas Mavericks,NBA,(2017-18),Southwest Division,Dallas Mavericks,DAL,24,58,29.30%
+1483,NBAMemphis Grizzlies,NBA,(2017-18),Southwest Division,Memphis Grizzlies,MEM,22,60,26.80%
