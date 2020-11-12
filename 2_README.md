@@ -1,29 +1,36 @@
-# Ballers_Project1
 
-Initial Proposal
-Group Name: Ballers Stats: NBA Members: Jim Tran, Vena Li, Sharifah Sinclair, George Redak, 
+![nba_pic](output_images/nba.jpg)
 
-Questions: 
-What position is the most valuable on the court? 
-Which traditional stat is most important? 
-Which advanced stat is most important? 
-What player is the best over the period looked at?
-Can you tell anything about coaching by looking at stats alone?
-What team has had the most success over the period studied?
+# Ballers Project1 "Do You Really Know The NBA?"
+### _By: Vena Li, Sharifah Sinclair, George Redak, Jim Tran_
+#### _Nov. 12, 2020_
 
-Data sources: This will give us api, csv and json. We can even map shots with locations data. NBA API Basketballrefernce.com 
-Roles: George - Pulling data Sharifah - Cleaning and data exploration 
-Jim - Analysis 
-Vena - Visualization Written analysis 
+### Initial Proposal
+#### Group Name: Ballers Stats: NBA Members: Jim Tran, Vena Li, Sharifah Sinclair, George Redak 
 
-Group Goal: Our project is to determine what patterns have taken place over the last 30 years of NBA that have led to such an increase in total statistics per player (and by how much). We will analyze data looking at traditional and advanced stats to determine what patterns are present in teams that are successful, as well as players who are successful.
+#### Questions: 
+ * What position is the most valuable on the court? 
+ * Which traditional stat is most important? 
+ * Which advanced stat is most important? 
+ * What player is the best over the period looked at?
+ * Can you tell anything about coaching by looking at stats alone?
+ * What team has had the most success over the period studied?
 
-========================================================================
+#### Data sources: 
+*This will give us api, csv and json. We can even map shots with locations data. NBA API Basketballrefernce.com* 
+*Roles: George - Pulling data Sharifah - Cleaning and data exploration* 
+*Jim - Analysis* 
+*Vena - Visualization Written analysis* 
 
-Topic: “Do You Really Know The NBA?”
-The NBA is full of interesting statistics and data available for data analysis.  We picked this topic as basketball fans and as sports fans in general who want to try and make sense of the data and its impact on the game.
+#### *Group Goal: Our project is to determine what patterns have taken place over the last 30 years of NBA that have led to such an increase in total statistics per player (and* *by how much). We will analyze data looking at traditional and advanced stats to determine what patterns are present in teams that are successful, as well as players who are* *successful.*
+
+=================================================================================================================================================================================
+
+### Topic: “Do You Really Know The NBA?”
+
+*The NBA is full of interesting statistics and data available for data analysis.  We picked this topic as basketball fans and as sports fans in general who want to try and make sense of the data and its impact on the game.
 We looked at how game statistics impact the game; specifically, which player positions is most valuable; what traditional and advanced statistics by players and by teams is more meaningful; as well as a look at player salaries through the decades.
-We extracted data from Dataworld, Kaggle and NBA API calls to answer the questions.  First, we looked at the data for the most valuable positions.   For this we took the mean of the winning shares for the five common positions (point guard, shooting guard, small forward, power forward, center) for players from 1978 to 2015.   Next, we compared the traditional statistics such as points, assists, field goals and rebounds to team wins from 2014 to 2018.  Team points and team wins were extracted from 2 different sources and merged into one dataframe for analysis and graphing.  We then looked at advanced statistics such as Tm, PER, BPM, VORP, WS, Team Mar by players and from 1985 onwards was extracted and transformed for analysis and graphing.  We also looked at the player’s playoff performance and how it affects team winss.  Next we took a look at  the player’s heights, age and weights over the 5  decades: 1980, 1990, 2000 and 2010.  Next, we compared the movements of the player’s salaries over the same decades.  Finally, we include some fun facts to compare LeBron James and Michael Jordan’s statistics and attempt to answer who is the G.O.A.T. 
+We extracted data from Dataworld, Kaggle and NBA API calls to answer the questions.  First, we looked at the data for the most valuable positions.   For this we took the mean of the winning shares for the five common positions (point guard, shooting guard, small forward, power forward, center) for players from 1978 to 2015.   Next, we compared the traditional statistics such as points, assists, field goals and rebounds to team wins from 2014 to 2018.  Team points and team wins were extracted from 2 different sources and merged into one dataframe for analysis and graphing.  We then looked at advanced statistics such as Tm, PER, BPM, VORP, WS, Team Mar by players and from 1985 onwards was extracted and transformed for analysis and graphing.  We also looked at the player’s playoff performance and how it affects team winss.  Next we took a look at  the player’s heights, age and weights over the 5  decades: 1980, 1990, 2000 and 2010.  Next, we compared the movements of the player’s salaries over the same decades.  Finally, we include some fun facts to compare LeBron James and Michael Jordan’s statistics and attempt to answer who is the G.O.A.T.* 
 
 Questions to Answer and Analysis:
 What position is the most valuable on the court? - Vena
