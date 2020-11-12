@@ -51,25 +51,41 @@ We extracted data from Dataworld, Kaggle and NBA API calls to answer the questio
 #### Which advanced stat is most important?  - George
  * Data Needed: Player Name, PER, BPM, WORP, Team Margin
  * Find correlation between winning and advanced stat(PER, BPM, WORP) with scatter plots
+![line-bar1](output_images/BPM_Graph.png)
+![line-bar2](output_images/WS_Graph.png)
+![line-bar3](output_images/VORP_Graph.png)
+![line-bar4](output_images/PER_Graph.png)
 
 #### Playoffs Performances - Sharifah
  * Data needed: Playoffs players, Team name, All-time games won, all-time win percentage and differential (Points for - Points Allowed) 
  * Rank the top 10
  * Looking at point differential for all teams ever, chart the top 20
  * scatter plot with regression
-
+![line-bar5](output_images/Total_Point_Wins.png)
+![line-bar6](output_images/Minutes_Played_Wins.png)
+![line-bar7](output_images/Total_Assists_Wins.png)
+![line-bar8](output_images/Average_Points_Wins.png)
+ 
 #### What decade was the tallest? What decade was the heaviest? -Sharifah 
  * Data Needed: Name, time(group by decades), height, age and weight
  * Dual bar graph showing weight and age by decades
  * multi-line and multi-bar graphs
+![line-bar9](output_images/Average_Height_Weight_Age.png)
+![line-bar10](output_images/Height_Distribution.png)
+![line-bar11](output_images/Age_Distribution.png)
+![line-bar12](output_images/Weight_Distribution.png)
 
 #### Show salary evolution - George
   * Create bin for different salary range
   * line and bar graphs (show percent of players in each salary range)
+![line-bar13](output_images/Salary_Averages_Era.png)
+![line-bar14](output_images/Era_Salary_Distribution.png)
 
 #### Fun Facts: player height, age and weight - George
   * Data needed: points, assists, rebounds, blocks, field goals and steals for LeBron James and Michael Jordan
   * side-by-side bar graphs
+![line-bar15](output_images/LeBron_Michael(Averages).png)
+![line-bar16](output_images/LeBron_Michael(Totals).png)
 
 #### Discussion:
   * The biggest take away from this analysis is the lack of evidence to support that great statistical achievements from individuals creates a winning team. 
