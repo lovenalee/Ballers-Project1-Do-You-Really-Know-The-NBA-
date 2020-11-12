@@ -45,47 +45,48 @@ We extracted data from Dataworld, Kaggle and NBA API calls to answer the questio
  * Data Needed: player name, points, assists, rebounds, FG%, team margin
  * Find correlation between winning and an imputed stats (points, assists, rebounds, FG%) with scatter plot
 
-*To analyze this extracted separate datasets for team points and for team wins then merged them by year and team abbreviations for a complete dataframe that is made up of Teams, Wins, [Points](output_images/Wins_Points.png), [Assists](output_images/Wins_Assists.png), [Field_Goals](output_images/Wins_FieldGoal.png) and [Rebounds](output_images/Wins_Rebounds.png).  Some of the data cleansing include converting data types from integer to object, from null to 0 values for summing, consolidating wins only, changing the seasons formats from (YYYY-MM) to YYYY and replacing team abbreviations for consistency.  The correlation between wins and each of the statistics is approximately 0.96 which suggests a strong positive relationship between wins and each of the statistics.  Team wins increase with higher/more points, assists, field goals, and rebounds.  And the last graph shows the same movement in data points.  Therefore, with the given data, it is inconclusive to determine that one statistic is more important over another, they all contribute to a team’s win.  This is evident in the multi line graph of statistics with the wins bar graph, as the statistics trend with the wins.*
+*To analyze this extracted separate datasets for team points and for team wins then merged them by year and team abbreviations for a complete dataframe that is made up of Teams, Wins, Points, Assists, Field Goal and Rebounds.  Some of the data cleansing include converting data types from integer to object, from null to 0 values for summing, consolidating wins only, changing the seasons formats from (YYYY-MM) to YYYY and replacing team abbreviations for consistency.  The correlation between wins and each of the statistics is approximately 0.96 which suggests a strong positive relationship between wins and each of the statistics.  Team wins increase with higher/more points, assists, field goals, and rebounds.  And the last graph shows the same movement in data points.  Therefore, with the given data, it is inconclusive to determine that one statistic is more important over another, they all contribute to a team’s win.  This is evident in the multi line graph of statistics with the wins bar graph, as the statistics trend with the wins.*
+
+![Points](output_images/Wins_Points.png)  ![Assists](output_images/Wins_Assists.png)
+![Field_Goals](output_images/Wins_FieldGoal.png)  ![Rebounds](output_images/Wins_Rebounds.png)
 ![line-bar](output_images/Wins_Stats.png)
 
 #### Which advanced stat is most important?  - George
  * Data Needed: Player Name, PER, BPM, WORP, Team Margin
  * Find correlation between winning and advanced stat(PER, BPM, WORP) with scatter plots
-![line-bar1](output_images/BPM_Graph.png)
-![line-bar2](output_images/WS_Graph.png)
-![line-bar3](output_images/VORP_Graph.png)
-![line-bar4](output_images/PER_Graph.png)
+ 
+![line-bar1](output_images/BPM_Graph.png)  ![line-bar2](output_images/WS_Graph.png)
+![line-bar3](output_images/VORP_Graph.png)  ![line-bar4](output_images/PER_Graph.png)
 
 #### Playoffs Performances - Sharifah
  * Data needed: Playoffs players, Team name, All-time games won, all-time win percentage and differential (Points for - Points Allowed) 
  * Rank the top 10
  * Looking at point differential for all teams ever, chart the top 20
  * scatter plot with regression
-![line-bar5](output_images/Total_Point_Wins.png)
-![line-bar6](output_images/Minutes_Played_Wins.png)
-![line-bar7](output_images/Total_Assists_Wins.png)
-![line-bar8](output_images/Average_Points_Wins.png)
+ 
+![line-bar5](output_images/Total_Point_Wins.png)  ![line-bar6](output_images/Minutes_Played_Wins.png)
+![line-bar7](output_images/Total_Assists_Wins.png)  ![line-bar8](output_images/Average_Points_Wins.png)
  
 #### What decade was the tallest? What decade was the heaviest? -Sharifah 
  * Data Needed: Name, time(group by decades), height, age and weight
  * Dual bar graph showing weight and age by decades
  * multi-line and multi-bar graphs
-![line-bar9](output_images/Average_Height_Weight_Age.png)
-![line-bar10](output_images/Height_Distribution.png)
-![line-bar11](output_images/Age_Distribution.png)
-![line-bar12](output_images/Weight_Distribution.png)
+ 
+![line-bar9](output_images/Average_Height_Weight_Age.png)  ![line-bar10](output_images/Height_Distribution.png)
+
+![line-bar11](output_images/Age_Distribution.png)  ![line-bar12](output_images/Weight_Distribution.png)
 
 #### Show salary evolution - George
   * Create bin for different salary range
   * line and bar graphs (show percent of players in each salary range)
-![line-bar13](output_images/Salary_Averages_Era.png)
-![line-bar14](output_images/Era_Salary_Distribution.png)
+  
+![line-bar13](output_images/Salary_Averages_Era.png) ![line-bar14](output_images/Era_Salary_Distribution.png)
 
 #### Fun Facts: player height, age and weight - George
   * Data needed: points, assists, rebounds, blocks, field goals and steals for LeBron James and Michael Jordan
   * side-by-side bar graphs
-![line-bar15](output_images/LeBron_Michael(Averages).png)
-![line-bar16](output_images/LeBron_Michael(Totals).png)
+  
+![line-bar15](output_images/LeBron_Michael(Averages).png) ![line-bar16](output_images/LeBron_Michael(Totals).png)
 
 #### Discussion:
   * The biggest take away from this analysis is the lack of evidence to support that great statistical achievements from individuals creates a winning team. 
