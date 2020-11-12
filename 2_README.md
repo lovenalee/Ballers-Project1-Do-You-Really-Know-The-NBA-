@@ -24,7 +24,7 @@
 
 #### *Group Goal: Our project is to determine what patterns have taken place over the last 30 years of NBA that have led to such an increase in total statistics per player (and* *by how much). We will analyze data looking at traditional and advanced stats to determine what patterns are present in teams that are successful, as well as players who are* *successful.*
 
-=================================================================================================================================================================================
+===============================================================================================================================================================================
 
 ### Topic: “Do You Really Know The NBA?”
 
