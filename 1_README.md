@@ -39,40 +39,65 @@ We extracted data from Dataworld, Kaggle and NBA API calls to answer the questio
  * multi line graph with position means from 1980 to 2015 
 
 *We first decide to drop The data of the year 2016 from the dataset since it seems incomplete, and only focus on the period 1978-2015. Then we Group the data by year and         position and then we made this line plot to visualize our data.  As you may tell, we were not able to find any specific trend but we do find out something interesting. We      found out that “Center” is the most valuable position during 1978-1986. In fact, after we generate the average W/S for each position “Center” is also the most valuable position in general. Our other discovery is that the W/S for every position Dropped dramatically in 1999 and 2012, we believe that is due to a salary negotiation and the season becoming shorter.*
-![quartiles](output_images/WS_Position.png)
+![line](output_images/WS_Position.png) ![box](output_images/WS_Position_box.png)
 
 #### Which traditional stat is most important? - Jim
-Data Needed: player name, points, assists, rebounds, FG%, team margin
-Find correlation between winning and an imputed stats (points, assists, rebounds, FG%).
-Scatter Plot
-To analyze this extracted separate datasets for team points and for team wins then merged them by year and team abbreviations for a complete dataframe that is made up of Teams, Wins, Points, Assists, Field Goals and Rebounds.  Some of the data cleansing include converting data types from integer to object, from null to 0 values for summing, consolidating wins only, changing the seasons formats from (YYYY-MM) to YYYY and replacing team abbreviations for consistency.  The correlation between wins and each of the statistics is approximately 0.96 which suggests a strong positive relationship between wins and each of the statistics.  Team wins increase with higher/more points, assists, field goals, and rebounds.  And the last graph shows the same movement in data points.  Therefore, with the given data, it is inconclusive to determine that one statistic is more important over another, they all contribute to a team’s win.  This is evident in the multi line graph of statistics with the wins bar graph, as the statistics trend with the wins.
+ * Data Needed: player name, points, assists, rebounds, FG%, team margin
+ * Find correlation between winning and an imputed stats (points, assists, rebounds, FG%) with scatter plot
 
-Which advanced stat is most important?  - George
-Data Needed: Player Name, PER, BPM, WORP, Team Margin
-Find correlation between winning and advanced stat(PER, BPM, WORP).
-Scatter plot
+*To analyze this extracted separate datasets for team points and for team wins then merged them by year and team abbreviations for a complete dataframe that is made up of Teams, Wins, [Points](output_images/Wins_Points.png), [Assists](output_images/Wins_Assists.png), [Field_Goals](output_images/Wins_FieldGoal.png) and [Rebounds](output_images/Wins_Rebounds.png).  Some of the data cleansing include converting data types from integer to object, from null to 0 values for summing, consolidating wins only, changing the seasons formats from (YYYY-MM) to YYYY and replacing team abbreviations for consistency.  The correlation between wins and each of the statistics is approximately 0.96 which suggests a strong positive relationship between wins and each of the statistics.  Team wins increase with higher/more points, assists, field goals, and rebounds.  And the last graph shows the same movement in data points.  Therefore, with the given data, it is inconclusive to determine that one statistic is more important over another, they all contribute to a team’s win.  This is evident in the multi line graph of statistics with the wins bar graph, as the statistics trend with the wins.*
+![line-bar](output_images/Wins_Stats.png)
 
-What decade was the tallest? What decade was the heaviest? -Sharifah 
-Data Needed: Name, time(group by decades), hight, weight
-Dual bar graph showing weight and age by decades
+#### Which advanced stat is most important?  - George
+ * Data Needed: Player Name, PER, BPM, WORP, Team Margin
+ * Find correlation between winning and advanced stat(PER, BPM, WORP) with scatter plots
+![line-bar1](output_images/BPM_Graph.png)
+![line-bar2](output_images/WS_Graph.png)
+![line-bar3](output_images/VORP_Graph.png)
+![line-bar4](output_images/PER_Graph.png)
+
+#### Playoffs Performances - Sharifah
+ * Data needed: Playoffs players, Team name, All-time games won, all-time win percentage and differential (Points for - Points Allowed) 
+ * Rank the top 10
+ * Looking at point differential for all teams ever, chart the top 20
+ * scatter plot with regression
+![line-bar5](output_images/Total_Point_Wins.png)
+![line-bar6](output_images/Minutes_Played_Wins.png)
+![line-bar7](output_images/Total_Assists_Wins.png)
+![line-bar8](output_images/Average_Points_Wins.png)
+ 
+#### What decade was the tallest? What decade was the heaviest? -Sharifah 
+ * Data Needed: Name, time(group by decades), height, age and weight
+ * Dual bar graph showing weight and age by decades
+ * multi-line and multi-bar graphs
+![line-bar9](output_images/Average_Height_Weight_Age.png)
+![line-bar10](output_images/Height_Distribution.png)
+![line-bar11](output_images/Age_Distribution.png)
+![line-bar12](output_images/Weight_Distribution.png)
+
+#### Show salary evolution - George
+  * Create bin for different salary range
+  * line and bar graphs (show percent of players in each salary range)
+![line-bar13](output_images/Salary_Averages_Era.png)
+![line-bar14](output_images/Era_Salary_Distribution.png)
+
+#### Fun Facts: player height, age and weight - George
+  * Data needed: points, assists, rebounds, blocks, field goals and steals for LeBron James and Michael Jordan
+  * side-by-side bar graphs
+![line-bar15](output_images/LeBron_Michael(Averages).png)
+![line-bar16](output_images/LeBron_Michael(Totals).png)
+
+#### Discussion:
+  * The biggest take away from this analysis is the lack of evidence to support that great statistical achievements from individuals creates a winning team. 
+  * Per Game individual averages (advance or traditional)  almost have no correlation to the team winning, in the playoffs or otherwise
+  * Totals is the biggest indicator of a player’s ability to win.
+  
+#### Post Mortem
+  * One issue was navigating the NBA API. Calling players by their id was the only way to get data, and this was a tedious process
+  * Finding specific playoffs data was very difficult. We created our own dataframe from NBA API for this. 
+  *The question of how important a player is to their team can be further explored by looking at data specific to lineup combinations. This would be a next step, looking            specifically at players and positions when they are on the court vs. off the court.
 
 
-Show salary evolution 
-Create bin for different salary range
-Pie chart (show percent of players in each salary range)
-Best season from a team 
-Looking at point differential for all teams ever, chart the top 20
-Data Needed: Differential (Points for - Points Allowed) 
-Bar graph
-Playoffs player
-Playoffs team 
-Data needed: Team name, All-time games won, all-time win percentage
-Rank the top 10
 
 
-Type of Graphs
-Scattered plots with regressions
-Multi line and bar graph
-Bar graphs
-Multi bar graphs
 
