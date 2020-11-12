@@ -39,7 +39,7 @@ We extracted data from Dataworld, Kaggle and NBA API calls to answer the questio
  * multi line graph with position means from 1980 to 2015 
 
 *We first decide to drop The data of the year 2016 from the dataset since it seems incomplete, and only focus on the period 1978-2015. Then we Group the data by year and         position and then we made this line plot to visualize our data.  As you may tell, we were not able to find any specific trend but we do find out something interesting. We      found out that “Center” is the most valuable position during 1978-1986. In fact, after we generate the average W/S for each position “Center” is also the most valuable position in general. Our other discovery is that the W/S for every position Dropped dramatically in 1999 and 2012, we believe that is due to a salary negotiation and the season becoming shorter.*
-
+![quartiles](output_images/WS_Position.png)
 
 #### Which traditional stat is most important? - Jim
 Data Needed: player name, points, assists, rebounds, FG%, team margin
